@@ -1,0 +1,5 @@
+preto = #261e1e
+
+vermelho = d82501
+
+branco = d7d9d8
