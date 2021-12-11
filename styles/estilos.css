@@ -53,14 +53,13 @@ li {
 .logoSecundario {
     text-align: center;
     position: relative;
-    margin-top: 15px;
+    margin: auto;
     width: 20%;
 }
 
 .parallax {
-    background-image: url("https://cio.com.br/wp-content/uploads/2019/09/repensando-software.jpg");
-    min-height: 600px;
-    text-align: center;
+    background-image: url("https://cio.com.br/wp-content/uploads/2019/09/repensando-software.jpg");    text-align: center;
+    margin: auto;
     
 
     background-attachment: fixed;
@@ -79,7 +78,7 @@ li {
 
 .texto {
     font-family: 'Lemon regular';
-    color: #d7d9d8;
+    color: #30150f;
     font-size: 30px;
     text-align: justify;
     margin: 100px;
@@ -114,9 +113,8 @@ li {
 
 #menu {
     position: fixed;
-    top: 0px;
     left: 0px;
     right: 0px;
-    width: 40%;
-
+    width: auto;
+    height: auto;
 }
