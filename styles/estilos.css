@@ -84,7 +84,7 @@ main {
 .texto {
     font-family: 'Lemon regular';
     color: #30150f;
-    font-size: 30px;
+    font-size: 30%;
     text-align: justify;
     margin: auto;
 }
