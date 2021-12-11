@@ -8,8 +8,6 @@
 .parallax {
     background-image: url("https://cio.com.br/wp-content/uploads/2019/09/repensando-software.jpg");    text-align: center;
     margin: auto;
-    
-
     background-attachment: fixed;
     background-position: initial;
     background-repeat: no-repeat;
@@ -27,7 +25,12 @@
 .texto {
     font-family: 'Lemon regular';
     color: #30150f;
-    font-size: 30px;
+    font-size: 1.5vw;
     text-align: justify;
     margin: auto;
+}
+
+.margem {
+    margin: auto;
+    
 }
