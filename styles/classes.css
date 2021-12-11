@@ -1,0 +1,33 @@
+.logoSecundario {
+    text-align: center;
+    position: relative;
+    margin: auto;
+    width: 20%;
+}
+
+.parallax {
+    background-image: url("https://cio.com.br/wp-content/uploads/2019/09/repensando-software.jpg");    text-align: center;
+    margin: auto;
+    
+
+    background-attachment: fixed;
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-link {
+    color: #d7d9d8;
+}
+
+.logo-topo {
+    width: 40px;
+}
+
+.texto {
+    font-family: 'Lemon regular';
+    color: #30150f;
+    font-size: 30px;
+    text-align: justify;
+    margin: auto;
+}
