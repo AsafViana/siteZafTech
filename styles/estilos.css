@@ -21,7 +21,7 @@
 
 /*=================================tags=====================*/
 body {
-    background-color: DFB8B0;
+    background-color: whitesmoke;
 }
 
 ul {
@@ -29,8 +29,7 @@ ul {
     align-items: center;
     display: flex;
     list-style: none;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin: auto;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
 }
@@ -46,6 +45,12 @@ li {
     font-family: 'Lemon light';
     color: #d7d9d8;
     margin-top: 10px;
+}
+
+main {
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
 }
 
 
