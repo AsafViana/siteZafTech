@@ -3,6 +3,7 @@
     position: relative;
     margin: auto;
     width: 20%;
+    margin-top: 40px;
 }
 
 .parallax {
@@ -12,6 +13,7 @@
     background-position: initial;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
 .nav-link {
